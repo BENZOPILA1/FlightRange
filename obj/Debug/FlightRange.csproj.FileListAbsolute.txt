@@ -1,0 +1,8 @@
+C:\Users\GOAT\source\repos\FlightRange\bin\Debug\FlightRange.exe.config
+C:\Users\GOAT\source\repos\FlightRange\bin\Debug\FlightRange.exe
+C:\Users\GOAT\source\repos\FlightRange\bin\Debug\FlightRange.pdb
+C:\Users\GOAT\source\repos\FlightRange\obj\Debug\FlightRange.csproj.AssemblyReference.cache
+C:\Users\GOAT\source\repos\FlightRange\obj\Debug\FlightRange.csproj.SuggestedBindingRedirects.cache
+C:\Users\GOAT\source\repos\FlightRange\obj\Debug\FlightRange.csproj.CoreCompileInputs.cache
+C:\Users\GOAT\source\repos\FlightRange\obj\Debug\FlightRange.exe
+C:\Users\GOAT\source\repos\FlightRange\obj\Debug\FlightRange.pdb
